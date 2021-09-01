@@ -21,6 +21,7 @@
   "homepage": "https://github.com/jomiborras/logistics#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^6.0.3",
     "nodemon": "^2.0.12"
   }
 }
